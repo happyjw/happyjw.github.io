@@ -451,6 +451,3 @@ insert的调用需要IntWidgetMap::value_type类型的实参（即pair<int, Widg
 ### 条款25：熟悉非标准散列容器
 非标准散列容器：hash_set、hash_multiset、hash_map和hash_multimap
 标准散列容器：unordered_set、unordered_multiset、unordered_map和unordered_multimap散列关联容器,不像它们在标准中的（通常基于树）兄弟,不需要保持有序
-
-
-
