@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Binary Tree"
+date: 2015-6-7 08:49:25 -0700
+comments: true
+categories:
+---
+
 # Recover Binary Search Tree
 ### Recover Binary Search Tree
 * Two elements of a binary search tree (BST) are swapped by mistake.
